@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "thycotic-powershell-theme"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# VS Code PowerShell Theme
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+![logo](img/logo.png)
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+Welcome! This is a theme for PowerShell syntax (primarily) that can be used in [Visual Studio Code](https://code.visualstudio.com).
 
-**Enjoy!**
+## To-Do
+
+1. Add GitHub Action to build release and package (vsix file)
+1. Add GitHub Action to push build to VS Code Marketplace
