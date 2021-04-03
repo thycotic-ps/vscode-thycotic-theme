@@ -1,8 +1,8 @@
-# VS Code PowerShell Theme
+# VS Code Thycotic Theme
 
 ![logo](img/logo.png)
 
-Welcome! This is a theme for PowerShell syntax (primarily) that can be used in [Visual Studio Code](https://code.visualstudio.com).
+Welcome! This is a theme built for PowerShell syntax primarily to use with [Visual Studio Code](https://code.visualstudio.com). Additional languages will be added as time permits.
 
 ## To-Do
 

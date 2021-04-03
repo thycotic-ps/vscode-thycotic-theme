@@ -1,7 +1,7 @@
 {
-    "name": "thycotic-powershell-theme",
-    "displayName": "Thycotic PowerShell Theme",
-    "description": "PowerShell Theme based on Thycotic brand colors",
+    "name": "vscode-thycotic-theme",
+    "displayName": "Thycotic Theme",
+    "description": "Theme based on Thycotic brand colors",
     "icon": "img/logo.png",
     "version": "0.0.1",
     "engines": {
