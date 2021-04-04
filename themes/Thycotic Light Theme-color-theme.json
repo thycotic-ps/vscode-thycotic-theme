@@ -1,5 +1,5 @@
 {
-    "name": "Thycotic PowerShell Theme",
+    "name": "Thycotic Light Theme",
     "semanticHighlighting": true,
     "tokenColors": [
         {
@@ -35,7 +35,7 @@
             "name": "Operators",
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#f8e8b3"
+                "foreground": "#081F2C"
             }
         },
         {
@@ -45,7 +45,7 @@
                 "storage"
             ],
             "settings": {
-                "foreground": "#f1c400"
+                "foreground": "#1B8099"
             }
         },
         {
@@ -55,7 +55,7 @@
                 "support.type"
             ],
             "settings": {
-                "foreground": "#f5dd8e"
+                "foreground": "#3CC4E5"
             }
         },
         {
@@ -77,7 +77,7 @@
                 "variable.other.property.powershell"
             ],
             "settings": {
-                "foreground": "#cde29a"
+                "foreground": "#B3D565"
             }
         },
         {
@@ -110,7 +110,7 @@
                 "support.class"
             ],
             "settings": {
-                "foreground": "#f5dd8e"
+                "foreground": "#F1C400"
             }
         },
         {
@@ -133,7 +133,7 @@
                 "constant"
             ],
             "settings": {
-                "foreground": "#fcf4da"
+                "foreground": "#34A297"
             }
         },
         {
@@ -168,32 +168,33 @@
             "name": "Punctuation",
             "scope": "punctuation",
             "settings": {
-                "foreground": "#f1c400"
+                "foreground": "#34A297"
             }
         }
     ],
     "colors": {
         "sideBar.foreground": "#b3d565",
-        "sideBar.background": "#081f2c",
-        "titleBar.activeBackground": "#081f2c",
+        "sideBar.background": "#ffffff",
+        "titleBar.activeBackground": "#ffffff",
+        "titleBar.activeForeground": "#081f2c",
         "statusBar.foreground": "#f1c400",
-        "statusBar.background": "#081f2c",
+        "statusBar.background": "#ffffff",
         "statusBar.debuggingBackground": "#3EBEB1",
         "statusBar.debuggingForeground": "#081f2c",
         "statusBar.noFolderBackground": "#081f2c",
-        "activityBar.background": "#cde29a",
+        "activityBar.background": "#ffffff",
         "activityBar.foreground": "#081f2c",
-        "activityBarBadge.background": "#A9A9A9",
+        "activityBarBadge.background": "#081f2c",
         "tab.activeBackground": "#80bb01a0",
         "tab.activeForeground": "#e5f0cc",
-        "editor.lineHighlightBackground": "#636f79bc",
-        "editor.selectionBackground": "#c8ccd0a5",
-        "editor.background": "#081f2c",
+        "editor.lineHighlightBackground": "#FCF4DA",
+        "editor.selectionBackground": "#F5DD8E",
+        "editor.background": "#ffffff",
         "settings.checkboxBorder": "#A9A9A9",
         "settings.dropdownBorder": "#A9A9A9",
         "settings.numberInputBorder": "#A9A9A9",
         "settings.textInputBorder": "#A9A9A9",
-        "terminal.background": "#081f2c",
-        "terminal.foreground": "#F5F5F5"
+        "terminal.background": "#ffffff",
+        "terminal.foreground": "#081f2c"
     }
 }

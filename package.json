@@ -13,9 +13,14 @@
     "contributes": {
         "themes": [
             {
-                "label": "Thycotic Theme",
+                "label": "Thycotic Dark Theme",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Thycotic Theme-color-theme.json"
+                "path": "./themes/Thycotic Dark Theme-color-theme.json"
+            },
+            {
+                "label": "Thycotic Light Theme",
+                "uiTheme": "vs",
+                "path": "./themes/Thycotic Light Theme-color-theme.json"
             }
         ]
     }
