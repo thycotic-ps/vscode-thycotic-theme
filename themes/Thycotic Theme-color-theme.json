@@ -187,7 +187,7 @@
         "tab.activeBackground": "#80bb01a0",
         "tab.activeForeground": "#e5f0cc",
         "editor.lineHighlightBackground": "#636f79bc",
-        "editor.selectionBackground": "#94c6f7",
+        "editor.selectionBackground": "#c8ccd0a5",
         "editor.background": "#081f2c",
         "settings.checkboxBorder": "#A9A9A9",
         "settings.dropdownBorder": "#A9A9A9",
